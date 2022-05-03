@@ -1,0 +1,35 @@
+GET http://localhost:9999/foobar
+
+###
+POST http://localhost:9999/eat-shit
+Content-Type: application/json
+
+{
+  "13": 13,
+  "name": "LardDaddy"
+}
+
+###
+POST http://localhost:9999/square
+Content-Type: application/json
+
+{
+  "luvut": [3, 6, 9]
+}
+
+###
+POST http://localhost:9999/f2c
+Content-Type: application/json
+
+{
+  "aste": 100
+}
+
+###
+
+GET http://localhost:9999/flipper
+Content-Type: application/json
+
+{
+
+}

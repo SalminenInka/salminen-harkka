@@ -1,0 +1,29 @@
+{
+  "name": "salminen-harkka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalminenInka/salminen-harkka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalminenInka/salminen-harkka/issues"
+  },
+  "homepage": "https://github.com/SalminenInka/salminen-harkka#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "got": "^11.8.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.25"
+  }
+}
